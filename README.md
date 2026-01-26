@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🗺️ FixTrack
- 
-**Real-Time Issue Reporting and Tracking System**
+  <img src="https://github.com/Muhammad-Ahmed-Rayyan/FixTrack/blob/main/Fixtrack.png" width="500">
+  
+  #
+  
+  <p><b>Real-Time Issue Reporting and Tracking System</b></p>
 
 ![Last Commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/FixTrack)
 ![TypeScript](https://img.shields.io/badge/TypeScript-61.9%25-blue?logo=typescript)
